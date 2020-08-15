@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 20
+  controlID: 118
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 21
+  controlID: 119
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 22
+  controlID: 120
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -365,20 +365,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: 76
   m_LastProjectPath: D:\GitHub\MyFirst3DGame\3DPlatformer
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 26340000
-    m_LastClickedID: 13350
-    m_ExpandedIDs: 000000001234000000ca9a3b
+    m_SelectedIDs: 30360000
+    m_LastClickedID: 13872
+    m_ExpandedIDs: 000000001e36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000012340000
+    m_ExpandedIDs: 000000001e360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,9 +529,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fa880000
-      m_LastClickedID: 35066
-      m_ExpandedIDs: 926dffffae6dffffa86fffffb86fffffc86fffff0a74ffff5277ffff947bffff907dffff2a7fffff1280ffffd287ffff0c8affff788dffff8a8dffffbc9cffff9a9fffffcc9fffff76a0ffff8aa0ffff98a0ffffe4a3ffff08a4ffff56a7ffff64a7ffff50a8ffff20a9ffff24aafffff8aaffff8cabffffa0abffff62adffff6eb2ffff58b4ffff58b5ffffecb9ffff10bdffffa0c4ffff5ed1ffffc0d1ffff32d3ffff88d4fffff8d4ffff8ad5ffff34d6fffff8d6ffff52d8ffff88d8ffff5edbffff8adbffffe6dfffff56e0ffffeee1ffff42e6ffff44faffff70fbfffff4ffffff503d000082520000a05200003c550000e4590000105a00005c7f000002820000
+      m_SelectedIDs: 645b0000
+      m_LastClickedID: 23396
+      m_ExpandedIDs: 58ecffff74ecffff6aeeffff76eeffff82eeffff42f6ffff5ef6ffff58f8ffff68f8ffff78f8ffff70fbffff7e3f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -591,9 +591,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.06356704, y: 21.915619, z: -21.082117}
+    m_Target: {x: 662, y: 317, z: 0}
     speed: 2
-    m_Value: {x: -0.06356704, y: 21.915619, z: -21.082117}
+    m_Value: {x: 662, y: 317, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -643,9 +643,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.24487801, y: 0.3732078, z: -0.10280969, w: 0.8889212}
   m_Size:
-    m_Target: 0.5579957
+    m_Target: 733.9843
     speed: 2
-    m_Value: 0.5579957
+    m_Value: 733.9843
   m_Ortho:
     m_Target: 0
     speed: 2
